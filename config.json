@@ -1,19 +1,19 @@
 {
   "firebase": {
-    "apiKey": "YOUR_API_KEY",
-    "authDomain": "YOUR_PROJECT_ID.firebaseapp.com",
-    "databaseURL": "https://YOUR_PROJECT_ID-default-rtdb.firebaseio.com",
-    "projectId": "YOUR_PROJECT_ID",
-    "storageBucket": "YOUR_PROJECT_ID.appspot.com",
-    "messagingSenderId": "YOUR_SENDER_ID",
-    "appId": "YOUR_APP_ID"
+    "apiKey": "AIzaSyBPifwXpzMTk1NT7ohn2O4CEULd4B8PBJY",
+    "authDomain": "baida-34321.firebaseapp.com",
+    "databaseURL": "https://baida-34321-default-rtdb.firebaseio.com",
+    "projectId": "baida-34321",
+    "storageBucket": "baida-34321.firebasestorage.app",
+    "messagingSenderId": "961547044883",
+    "appId": "1:961547044883:web:2f89c5d01844467bd317e6"
   },
   "cloudinary": {
-    "cloudName": "YOUR_CLOUD_NAME",
-    "uploadPreset": "YOUR_UPLOAD_PRESET"
+    "cloudName": "vdnaevco",
+    "uploadPreset": "Ubaida"
   },
   "admin": {
-    "email": "admin@yourdomain.com",
+    "email": "admin@baida.com",
     "password": "yourpassword123"
   }
 }
